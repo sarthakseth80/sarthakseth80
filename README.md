@@ -4,7 +4,11 @@
   <b>Java Backend & Full-Stack Developer</b> · <b>DSA Enthusiast</b> · CSE @ Ramdeobaba University, Nagpur
 </p>
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/CGPA-8.4-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SIH-4th%20Runner--Up-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge" />
+</p>
 
 ---
 
@@ -61,9 +65,12 @@
 ### 📂 Featured Projects
 | Project | Description | Stack |
 |---|---|---|
-| 💧 [**AqvaSense**](https://github.com/sarthakseth80/droughtManager) | Drought monitoring dashboard with live risk maps & AI action plans | React, MongoDB, REST APIs |
-| 🌿 [**Anandvan**](https://github.com/sarthakseth80/Anandvan) | E-commerce & donation platform empowering 150+ artisans | MERN, OAuth, JWT |
-| ✈️ **Runway Management System** | SIH 4th Runner-Up solution | Hackathon |
+| 🗄️ [**SMS_MySQL_JDBC**](https://github.com/sarthakseth80/SMS_MySQL_JDBC) | Student Management System with database integration | Java, JDBC, MySQL |
+| 🎓 [**StudentManagementSystem_Advanced**](https://github.com/sarthakseth80/StudentManagementSystem_Advanced) | Extended, feature-rich version of the student management system | Java |
+| 👔 [**employee-management-api**](https://github.com/sarthakseth80/employee-management-api) | Employee Management REST API with clean entity relationships | Java, Spring Boot, JPA |
+| 🔁 [**EmployeeCrudAPI**](https://github.com/sarthakseth80/EmployeeCrudAPI) | CRUD REST API for employee data | Java, Spring Boot |
+| 🔐 [**LoginAuthApp**](https://github.com/sarthakseth80/LoginAuthApp) | Secure login & authentication application | Java |
+| 🧩 [**Student-Management-System-**](https://github.com/sarthakseth80/Student-Management-System-) | Student Management System using OOP concepts | Java, OOP |
 
 ---
 
