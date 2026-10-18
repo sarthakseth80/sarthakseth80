@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/CGPA-8.4-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SIH-4th%20Runner--Up-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge" />
 </p>
 
